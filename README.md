@@ -1,33 +1,42 @@
+<p align="center">
+  <img
+    src="./assets/github-banner-light.png"
+    alt="RF Engineering, Network Performance, Data and Geospatial Analytics"
+    width="100%"
+  >
+</p>
+
 # Syaiful Alfraiza
 
-### Telecommunications Engineering | RF/RAN | Network Performance | Data Analytics
+### Senior RF Engineer | Technical Leader | Network Performance & Analytics
 
-Telecommunications professional with 17+ years of experience in RF/RAN planning, optimisation, network performance analysis and technical leadership, with extensive multi-vendor experience across Huawei, ZTE, Ericsson, Alcatel-Lucent and Nokia Siemens Networks in 2G, 3G and 4G/LTE environments.
+17+ years of experience in RF planning, optimisation and network performance across 2G, 3G and 4G/LTE networks, with multi-vendor experience in Huawei, ZTE, Ericsson, Alcatel-Lucent and Nokia Siemens Networks.
 
-My professional work has involved analysing network performance data, OSS KPIs, Measurement Report (MR) data, drive-test results, coverage and capacity performance, customer experience issues and geospatial information to support network optimisation and technical decision-making.
-
-Alongside my telecommunications background, I have developed additional capabilities in Python-based data analysis, statistical analysis, data visualisation and geospatial analytics through professional assignments, formal study and project work.
+My interest in data analytics grew from seeing how coding could turn complex network data into clearer, more useful information, leading me to expand into data and geospatial analysis alongside my RF work.
 
 ---
 
-## Technical Expertise
+## ⚡ What I Do
 
-Telecommunications  
-RF/RAN Planning & Optimisation · Cluster / Area Optimisation · Network Performance · OSS KPI/KQI Analysis · MR Analysis · Coverage & Capacity Optimisation · Drive-Test Analysis · Neighbour & Handover Optimisation · Network Rollout & Acceptance
+### 📡 RF & Network Performance
 
-Data & Analytics  
-Python · Pandas · Microsoft Excel · Data Cleaning · Exploratory Data Analysis · Statistical Analysis · Correlation Analysis · Hypothesis Testing · ANOVA · Linear Regression · Plotly · Matplotlib · Power BI · SQL Fundamentals
+RF planning and optimisation, cluster and area optimisation, network performance analysis, coverage and capacity improvement, OSS analysis, drive-test analysis, neighbour and handover optimisation, and network rollout activities.
 
-Geospatial  
-QGIS · MapInfo · Google Earth
+### 📊 Data & Analytics
+
+Data cleaning, exploratory data analysis, statistical analysis, data visualisation, predictive modelling, and dashboard development.
+
+### 🗺️ Geospatial Analysis
+
+Geospatial analysis of network and user data using location-based information to support performance assessment and optimisation.
 
 ---
 
-## Telecom Data & Geospatial Analysis
+## 📶 Telecom Data & Geospatial Analysis
 
 ### Sentinel Per User Per Grid (PUPG)
 
-Huawei – CelcomDigi
+Huawei - CelcomDigi
 
 Analysed user-transaction, RF and geospatial data for post-merger network assessment and optimisation.
 
@@ -40,17 +49,17 @@ The analysis included:
 - Dominant serving-site information
 - Site and geographical data
 
-The work involved correlating user activity with RF performance and coverage information, preparing RF optimisation recommendations, and comparing pre- and post-optimisation results.
+The work included correlating user activity with RF performance and coverage information, preparing RF optimisation recommendations, and comparing pre- and post-optimisation results.
 
 ---
 
-## Data Science Capstone Project
+## 📊 A Look at My Data Science Capstone
 
 ### Property Value Insight and Decision Analysis
 
 Adnexio Data Science Bootcamp | Yayasan Peneraju Programme
 
-Analysed 6,101 Malaysian residential property listings using Python and Pandas to explore factors associated with residential property prices.
+Analysed Malaysian residential property listings using Python and Pandas to explore factors associated with residential property prices.
 
 The project included:
 
@@ -70,15 +79,17 @@ Project notebook:
 
 ---
 
-## Selected Academic Projects
+## 🧩 Some Projects from UTM SPACE
+
+UTM SPACE – School of Professional and Continuing Education, Universiti Teknologi Malaysia
 
 ### Inventory Management System – DevOps & Code Quality Improvement
 
-UTM SPACE | Software Construction | Group Project | Private Repository
+Software Construction | Group Project | Private Repository
 
-Group project applying DevOps, automated testing, performance testing, containerisation and code-quality improvement practices to an existing Flask-based Inventory Management System.
+Worked on an existing Flask-based Inventory Management System with a focus on DevOps, testing, containerisation and code-quality improvement.
 
-My work included:
+What I worked on:
 
 - Jira Scrum project setup, including backlog, sprints, workflow, team access and project tracking
 - Jira issue and Git commit traceability
@@ -97,13 +108,13 @@ Python · Flask · SQLite · Git/GitHub · Jira · Jenkins · Apache JMeter · D
 
 ### StudyCompanion+
 
-UTM SPACE | Mobile Application Programming | Group Project
+Mobile Application Programming | Group Project
 
 A role-based mobile application developed using Flutter and Firebase for students, teachers, parents and administrators.
 
 My assigned module was User & Role Management.
 
-The work included:
+What I worked on:
 
 - User authentication using Firebase Authentication
 - User and role information stored in Cloud Firestore
@@ -122,13 +133,13 @@ Repository:
 
 ### FarmX
 
-UTM SPACE | Internet Programming | Group Project | Private Repository
+Internet Programming | Group Project | Private Repository
 
 A Java-based agricultural management web application developed using Spring MVC, Hibernate and MySQL.
 
 My assigned development covered the Resource Planning & Management and Knowledge Hub modules.
 
-The work included:
+What I worked on:
 
 - Water Usage Management
 - Equipment Maintenance
@@ -145,33 +156,42 @@ Java · Spring MVC · Hibernate · JSP · MySQL · Maven · Git · GitHub
 
 ---
 
-## Technical Tools
+## 🛠️ Technical Tools
 
-RF / OSS  
+### 📡 RF / OSS
+
 Huawei U2000 / M2000 · Huawei iPRS · Sentinel · ZTE NetNumen · NetMax · CNO · Alcatel-Lucent WiPS / NPO · Ericsson BusinessObjects / TMOS
 
-Drive Test & RF Analysis  
+### 🚗 Drive Test & RF Analysis
+
 Nemo Analyze · Nemo Outdoor · Nemo Handy · TEMS Investigation · Aexio Xeus Pro · GenexAssistant
 
-RF Planning & Geospatial  
+### 🗺️ RF Planning & Geospatial
+
 QGIS · MapInfo · Global Mapper · Google Earth · NetAct Planner · TEMS CellPlanner · Aircom Asset 3G
 
-Development & Collaboration  
+### 📊 Data & Analytics
+
+Python · Pandas · Microsoft Excel · Power BI · Plotly · Matplotlib · Jupyter Notebook · Google Colab · SQL (academic/project use)
+
+### 💻 Development & Collaboration
+
 Git · GitHub · Jira · Jenkins · Docker · Apache JMeter
 
 ---
 
-## Education & Professional Development
+## 🎓 Learning Journey
 
 Bachelor of Computer Science (Software Engineering)  
-Universiti Teknologi Malaysia – UTM SPACE · Part-time · Expected 2027
+Universiti Teknologi Malaysia – UTM SPACE  
+Part-time · Expected 2027
 
 Data Science Bootcamp  
-Adnexio · Yayasan Peneraju Programme · December 2025 – April 2026
+Adnexio · Yayasan Peneraju Programme  
+December 2025 – April 2026
 
 ---
 
-## Connect
+## 🔗 Connect
 
-LinkedIn:  
-https://linkedin.com/in/syaiful-a-aini
+[LinkedIn](https://linkedin.com/in/syaiful-a-aini)
