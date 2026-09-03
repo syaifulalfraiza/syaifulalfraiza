@@ -6,7 +6,7 @@
   >
 </p>
 
-# Syaiful Alfraiza
+# Hi there, I'm Syaiful 👋
 
 ### Senior RF Engineer | Technical Leader | Network Performance & Analytics
 
