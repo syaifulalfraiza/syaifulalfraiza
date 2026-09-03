@@ -145,7 +145,7 @@ Java · Spring MVC · Hibernate · JSP · MySQL · Maven · Git · GitHub
 
 ---
 
-## Selected Technical Tools
+## Technical Tools
 
 RF / OSS  
 Huawei U2000 / M2000 · Huawei iPRS · Sentinel · ZTE NetNumen · NetMax · CNO · Alcatel-Lucent WiPS / NPO · Ericsson BusinessObjects / TMOS
