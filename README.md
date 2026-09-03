@@ -194,4 +194,9 @@ December 2025 – April 2026
 
 ## 🔗 Connect
 
-[LinkedIn](https://linkedin.com/in/syaiful-a-aini)
+<a href="https://linkedin.com/in/syaiful-a-aini" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       alt="LinkedIn"
+       width="34"
+       height="34">
+</a>
