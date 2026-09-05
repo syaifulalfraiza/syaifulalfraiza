@@ -18,6 +18,13 @@ My interest in data analytics grew from seeing how coding could turn complex net
 
 ## ⚡ What I Do
 
+<img
+  align="left"
+  src="./assets/what-i-do_v1.gif"
+  alt="RF, network and data analytics animation"
+  width="380"
+/>
+
 ### 📡 RF & Network Performance
 
 RF planning and optimisation, cluster and area optimisation, network performance analysis, coverage and capacity improvement, OSS analysis, drive-test analysis, neighbour and handover optimisation, and network rollout activities.
@@ -29,6 +36,8 @@ Data cleaning, exploratory data analysis, statistical analysis, data visualisati
 ### 🗺️ Geospatial Analysis
 
 Geospatial analysis of network and user data using location-based information to support performance assessment and optimisation.
+
+<br clear="left">
 
 ---
 
